@@ -3,6 +3,7 @@
 ## Integrantes
 
 - Stela · sua dupla neste projeto
+- Lucas Cordeiro Soares
 
 ## Combinados do time
 
