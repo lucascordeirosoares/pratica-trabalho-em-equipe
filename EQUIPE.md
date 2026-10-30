@@ -3,7 +3,7 @@
 ## Integrantes
 
 - Stela · sua dupla neste projeto
-- Lucas Cordeiro Soares
+- Lucas Cordeiro Soares · Análise e Desenvolvimento de Sistemas
 
 ## Combinados do time
 
