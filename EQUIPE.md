@@ -3,6 +3,7 @@
 ## Integrantes
 
 - Stela · sua dupla neste projeto
+- Octocat · mascote da equipe 🐙
 
 ## Combinados do time
 
